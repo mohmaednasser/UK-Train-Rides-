@@ -11,50 +11,29 @@ The project covers the full data analysis lifecycle:
 - Dashboard design
 - Business insights and recommendations
 
----
-
-## Project Objectives
-- Analyze train rides trends over time
-- Forecast the number of rides for the next month
-- Forecast expected revenue
-- Analyze demand across different ticket classes
-- Support decision-makers with clear insights
-
----
-
-## Tools Used
-- Power BI
-- Power Query
-- DAX
-- Excel
+## Names of team members
+1- Mohamed Nasser Abd El Basset
+2- Ahmed Abdelrhman Hassan
+3- Youssef Ahmed Ibrahim
+4- Sara Basher Selem
+5- Tasneem Reda Gomaa
+6- Mariam Mohammed Abdelmalek
 
 ---
-
-## Project Structure
-UK-Train-Rides
-│── data/
-│── model/
-│── dashboard/
-│── presentation/
-│── README.md
-
-
----
-
-## Key Insights
-- Identified peak and off-peak travel periods
-- Highlighted the most profitable ticket classes
-- Forecasted demand and revenue for the upcoming month
-- Provided actionable recommendations
-
----
-
-## Team
+## Each member's responsibility
 - Project Lead: Mohamed Nasser
-- Team Members: (To be added)
+- Data Cleaning & Preprocessing: (Team Member Name)
+- Data Modeling: (Team Member Name)
+- DAX & Measures: (Team Member Name)
+- Dashboard Design: (Team Member Name)
+- Presentation & Storytelling: (Team Member Name)
 
 ---
+## Instructor
+ENG: Kareem Bakly
 
-## Final Deliverables
-- Interactive Power BI Dashboard
-- Final report and presentation
+---
+## Google Drive link
+https://drive.google.com/drive/folders/1f4Lvbp_k5Z9-hT7aDdxxOjIz7PWDJXXU?usp=sharing
+
+
