@@ -22,11 +22,11 @@ The project covers the full data analysis lifecycle:
 ---
 ## Each member's responsibility
 - Project Lead: Mohamed Nasser
-- Data Cleaning & Preprocessing: (Team Member Name)
-- Data Modeling: (Team Member Name)
-- DAX & Measures: (Team Member Name)
-- Dashboard Design: (Team Member Name)
-- Presentation & Storytelling: (Team Member Name)
+- Data Cleaning & Preprocessing: (Sara Basher Selem)
+- Data Modeling: (Mariam Mohammed Abdelmalek)
+- DAX & Measures: (Ahmed Abdelrhman Hassan)
+- Dashboard Design: (Tasneem Reda Gomaa)
+- Presentation & Storytelling: (Mariam Mohammed Abdelmalek)
 
 ---
 ## Instructor
